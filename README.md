@@ -1,7 +1,7 @@
 # Banner
 
 # 🌌 Priyanshu Singh Banner
-
+Live at : https://priyanshusinghchouhan.github.io/Banner/
 A sleek, animated personal banner showcasing my name, a developer tagline, and my contact links. It features floating tech icons and a clean monospace aesthetic, ideal for a portfolio landing or GitHub profile header.
 
 ## ✨ Features
